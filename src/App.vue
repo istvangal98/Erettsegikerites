@@ -9,7 +9,7 @@
       <a href="https://github.com/istvangal98/Erettsegikerites">GitHub</a>
       <a href="https://github.com/istvangal98">Feladat GitHub-ról</a>
     </div>
-    <!-- Page content -->
+    <!-- Page content  -->
     <div class="main"></div>
     <TxtReader placeholder="Forrás: (kerítés.txt)" @load="txtSorai = $event" />
     <div v-if="mutat" id="megoldas">
