@@ -6,8 +6,8 @@
       <a href="Kerítés_jav.pdf">Javítási.pdf</a>
       <!--<a href="kerites.txt">kerites.txt</a>-->
       <a href="kerites.txt" download="kerites.txt">Kerítés.txt letöltése</a>
-      <a href="https://github.com/nitslaszlo/ErettsegiKeritesTsVueJs">GitHub</a>
-      <a href="https://github.com/nitslaszlo/JedlikVueJsStarter">Feladat GitHub-ról</a>
+      <a href="https://github.com/istvangal98/Erettsegikerites">GitHub</a>
+      <a href="https://github.com/istvangal98">Feladat GitHub-ról</a>
     </div>
     <!-- Page content -->
     <div class="main"></div>
@@ -176,7 +176,7 @@ pre {
 
 .sidenav {
   height: 100%;
-  width: 19   0px;
+  width: 19 0px;
   position: fixed;
   z-index: 1;
   top: 0;
@@ -197,7 +197,6 @@ pre {
 .sidenav a:hover {
   color: #f1f1f1;
   font-size: 30px;
-    
 }
 .main {
   margin-left: 160px;
